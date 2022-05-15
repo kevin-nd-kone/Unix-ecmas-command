@@ -1,0 +1,5 @@
+btn = document.querySelector('#button')
+
+btn.addEventListener('click',()=>{
+  console.log('Emacs Editors is awesome, Thank ALX for this program'
+}
